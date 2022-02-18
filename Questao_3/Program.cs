@@ -56,6 +56,10 @@
     return saida;
 }
 
-Console.WriteLine("Digite a string");
+Console.WriteLine("Digite a string: ");
 Console.WriteLine(Anagrama(Console.ReadLine()));
 
+
+// codigo para rodar no console:
+Console.WriteLine(" \n Aperte ENTER para continuar...");
+Console.ReadLine();

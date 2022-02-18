@@ -68,6 +68,9 @@ do
 } while (password == false);
 
 
-Console.WriteLine("Senha cadastrada com sucesso :)");
+Console.WriteLine("\n Senha cadastrada com sucesso :)");
 
 
+// codigo para rodar no console:
+Console.WriteLine(" \n Aperte ENTER para continuar...");
+Console.ReadLine();

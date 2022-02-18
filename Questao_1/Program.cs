@@ -14,4 +14,6 @@ for (var i = 1; i <= numero; i++)
 
 }
 
-
+// codigo para rodar no console:
+Console.WriteLine(" \n Aperte ENTER para continuar...");
+Console.ReadLine();
