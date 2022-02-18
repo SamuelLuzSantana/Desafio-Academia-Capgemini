@@ -19,7 +19,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto na sua m�
 Acesse o link https://github.com/SamuelLuzSantana/Desafio-Academia-Capgemini e de um `git clone` na pasta de sua escolha ou se preferir faça o Dowload da aplicação em .ZIP
 <br>
 
-<img align="center" alt="html"   src=" https://imgur.com/YDLc8FB.gif" >
+<img align="center" src="https://imgur.com/YDLc8FB.gif">
 
 
  
@@ -35,7 +35,7 @@ Dentro da pasta da questão, vá para  bin>Debug>net6.0
 
 dentro desse diretório existe um arquivo `.exe` , para verificar se os critérios da questão foi correspondido, basta clicar que será executado no console o programa.
 
-<img align="center" alt="html"   src="https://imgur.com/PL0wObF.gif" width="100%">
+<img align="center" src="https://imgur.com/PL0wObF.gif" width="100%">
 <br><br>
 
 ## 🔩  Estrutura do codigo
