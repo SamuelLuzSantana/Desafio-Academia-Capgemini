@@ -58,9 +58,9 @@ Extraia o arquivo na pasta da sua escolha.
 Dentro da pasta da questão, vá para bin>Debug>net6.0
 
   
-
+```
 C:\Desafio-Academia Capgemini\Questao_3\bin\Debug\net6.0
-
+```
   
 
 dentro desse diretório existe um arquivo `.exe` , para verificar se os critérios da questão foi correspondido, basta clicar que será executado no console o programa.
