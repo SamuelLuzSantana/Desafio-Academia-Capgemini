@@ -45,3 +45,13 @@ O código raiz criado em C# encontra-se no arquivo Program.cs :
 - [Questão 1](https://github.com/SamuelLuzSantana/Desafio-Academia-Capgemini/blob/main/Questao_1/Program.cs)
 - [Questão 2](https://github.com/SamuelLuzSantana/Desafio-Academia-Capgemini/blob/main/Questao_2/Program.cs)
 - [Questão 3](https://github.com/SamuelLuzSantana/Desafio-Academia-Capgemini/blob/main/Questao_3/Program.cs) 
+
+## 🛠️  Construído com
+
+- [Visual Studio Code](https://code.visualstudio.com/) - Editor de código fonte
+- [ASP.NET](https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet) - Tecnologia usada para o desenvolvimento
+<hr>
+<br><br>
+
+<div align="center">  Agradeço a Academia Capgemini pela oportunidade de estar testando meus conhecimentos e a me desafiar ainda mais 💙 </div>
+
